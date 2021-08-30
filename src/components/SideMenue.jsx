@@ -5,11 +5,11 @@ import "./styles/SideMenue.css";
 export default SideMenue = () => {
   return (
     <>
-      <div class="sidebar">
-        <div class="title">
+      <div className="sidebar">
+        <div className="title">
           <h1>GariTimes</h1>
         </div>
-        <ul class="nav">
+        <ul className="nav">
           <li>
             <a href="" title="Reactを学び始める">
               Reactを学び始める
@@ -36,7 +36,7 @@ export default SideMenue = () => {
             </a>
           </li>
         </ul>
-        <ul class="share">
+        <ul className="share">
           <li>
             <a href="" title="_brank">
               <FaFacebookF className="fa" />
