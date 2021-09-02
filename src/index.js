@@ -1,7 +1,7 @@
 import { StrictMode } from "react";
 import ReactDOM from "react-dom";
 
-import TopPage from "./components/TopPage";
+import TopPage from "./containers/TopPage";
 
 ReactDOM.render(
   <StrictMode>
