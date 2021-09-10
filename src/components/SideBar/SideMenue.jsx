@@ -1,7 +1,7 @@
 import React from "react";
 import SideMenueLists from "./SideMenueLists";
-import ShareIcons from "../utils/ShareIcons";
-import "../styles/SideMenue.css";
+import ShareIcons from "../../utils/ShareIcons";
+import "../../styles/SideMenue.css";
 
 export default SideMenue = () => {
   const titleName = "GariTimes";
